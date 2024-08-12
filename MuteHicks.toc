@@ -1,0 +1,9 @@
+## Interface: 110002
+## Version: 1.0
+## Title: MuteHicks
+## Notes: Anchors aweigh!
+## Author: Ixima @ Argent Dawn
+## X-Curse-Project-ID: 1082285
+## X-Wago-ID: b6XVqwGp
+
+MuteHicks.lua
