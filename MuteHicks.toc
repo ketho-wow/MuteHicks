@@ -3,6 +3,7 @@
 ## Title: MuteHicks
 ## Notes: Anchors aweigh!
 ## Author: Ixima @ Argent Dawn
+## IconTexture: 1686581
 ## X-Curse-Project-ID: 1082285
 ## X-Wago-ID: b6XVqwGp
 
